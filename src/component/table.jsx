@@ -2,7 +2,7 @@ import React from "react";
 
 function Table(){
     return(
-        <div className="bg-[#756AB6] py-20 lg:w-[850px] lg:mx-auto">
+        <div className="bg-[#756AB6] py-20 lg:w-[850px] lg:mx-auto" id="category">
             <h1 className="text-2xl text-center mb-4">BMI Categories and Health Implications During Pregnancy</h1>
             <table className="table-fixed mx-auto">
                 <tr>
