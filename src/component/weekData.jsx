@@ -198,7 +198,7 @@ export default{
                 "id": "0025",
                 "Week": 25, 
                 "Weight Gain": "During the second trimester, an average weight gain of about 1 pound (0.45 kilograms) per week is recommended.", 
-                "Ideal Weight": " an average weight gain of 1-2 pounds (0.45-0.91 kg) per week during the second trimester is considered normal.",
+                "Ideal Weight": "An average weight gain of 1-2 pounds (0.45-0.91 kg) per week during the second trimester is considered normal.",
                 "Tips" : "Continue taking prenatal vitamins and focus on eating a balanced diet rich in nutrients."
                 
             }, 
@@ -206,8 +206,120 @@ export default{
                 "id": "0026",
                 "Week": 26, 
                 "Weight Gain": "During the second trimester, an average weight gain of about 1 pound (0.45 kilograms) per week is recommended.", 
-                "Ideal Weight": " an average weight gain of 1-2 pounds (0.45-0.91 kg) per week during the second trimester is considered normal.",
+                "Ideal Weight": "An average weight gain of 1-2 pounds (0.45-0.91 kg) per week during the second trimester is considered normal.",
                 "Tips" : "Continue taking prenatal vitamins and focus on eating a balanced diet rich in nutrients."
+                
+            }, 
+            {
+                "id": "0027",
+                "Week": 27, 
+                "Weight Gain": "During the third trimester, an average weight gain of about 1 pound (0.45 kilograms) per week is recommended.", 
+                "Ideal Weight": "Weight gain during the third trimester can vary, but a total weight gain of 25-35 pounds (11.3-15.9 kilograms) by the end of pregnancy is considered typical for women with a normal pre-pregnancy BMI.",
+                "Tips" : "Continue taking prenatal vitamins and maintaining a balanced diet to support your baby's growth and development."
+                
+            }, 
+            {
+                "id": "0028",
+                "Week": 28, 
+                "Weight Gain": "During the third trimester, an average weight gain of about 1 pound (0.45 kilograms) per week is recommended.", 
+                "Ideal Weight": "Weight gain during the third trimester can vary, but a total weight gain of 25-35 pounds (11.3-15.9 kilograms) by the end of pregnancy is considered typical for women with a normal pre-pregnancy BMI.",
+                "Tips" : "Continue taking prenatal vitamins and maintaining a balanced diet to support your baby's growth and development."
+                
+            }, 
+            {
+                "id": "0029",
+                "Week": 29, 
+                "Weight Gain": "During the third trimester, an average weight gain of about 1 pound (0.45 kilograms) per week is recommended.", 
+                "Ideal Weight": "Weight gain during the third trimester can vary, but a total weight gain of 25-35 pounds (11.3-15.9 kilograms) by the end of pregnancy is considered typical for women with a normal pre-pregnancy BMI.",
+                "Tips" : "Continue taking prenatal vitamins and maintaining a balanced diet to support your baby's growth and development."
+                
+            }, 
+            {
+                "id": "0030",
+                "Week": 30, 
+                "Weight Gain": "During the third trimester, an average weight gain of about 1 pound (0.45 kilograms) per week is recommended.", 
+                "Ideal Weight": "Weight gain during the third trimester can vary, but a total weight gain of 25-35 pounds (11.3-15.9 kilograms) by the end of pregnancy is considered typical for women with a normal pre-pregnancy BMI.",
+                "Tips" : "Continue taking prenatal vitamins and maintaining a balanced diet to support your baby's growth and development."
+                
+            }, 
+            {
+                "id": "0031",
+                "Week": 31, 
+                "Weight Gain": "During the third trimester, an average weight gain of about 1 pound (0.45 kilograms) per week is recommended.", 
+                "Ideal Weight": "Weight gain during the third trimester can vary, but a total weight gain of 25-35 pounds (11.3-15.9 kilograms) by the end of pregnancy is considered typical for women with a normal pre-pregnancy BMI.",
+                "Tips" : "Continue taking prenatal vitamins and maintaining a balanced diet to support your baby's growth and development."
+                
+            }, 
+            {
+                "id": "0032",
+                "Week": 32, 
+                "Weight Gain": "During the third trimester, an average weight gain of about 1 pound (0.45 kilograms) per week is recommended.", 
+                "Ideal Weight": "Weight gain during the third trimester can vary, but a total weight gain of 25-35 pounds (11.3-15.9 kilograms) by the end of pregnancy is considered typical for women with a normal pre-pregnancy BMI.",
+                "Tips" : "Continue taking prenatal vitamins and maintaining a balanced diet to support your baby's growth and development."
+                
+            }, 
+            {
+                "id": "0033",
+                "Week": 33, 
+                "Weight Gain": "During the third trimester, an average weight gain of about 1 pound (0.45 kilograms) per week is recommended.", 
+                "Ideal Weight": "Weight gain during the third trimester can vary, but a total weight gain of 25-35 pounds (11.3-15.9 kilograms) by the end of pregnancy is considered typical for women with a normal pre-pregnancy BMI.",
+                "Tips" : "Continue taking prenatal vitamins and maintaining a balanced diet to support your baby's growth and development."
+                
+            }, 
+            {
+                "id": "0034",
+                "Week": 34, 
+                "Weight Gain": "During the third trimester, an average weight gain of about 1 pound (0.45 kilograms) per week is recommended.", 
+                "Ideal Weight": "Weight gain during the third trimester can vary, but a total weight gain of 25-35 pounds (11.3-15.9 kilograms) by the end of pregnancy is considered typical for women with a normal pre-pregnancy BMI.",
+                "Tips" : "Continue taking prenatal vitamins and maintaining a balanced diet to support your baby's growth and development."
+                
+            }, 
+            {
+                "id": "0035",
+                "Week": 35, 
+                "Weight Gain": "During the third trimester, an average weight gain of about 1 pound (0.45 kilograms) per week is recommended.", 
+                "Ideal Weight": "Weight gain during the third trimester can vary, but a total weight gain of 25-35 pounds (11.3-15.9 kilograms) by the end of pregnancy is considered typical for women with a normal pre-pregnancy BMI.",
+                "Tips" : "Continue taking prenatal vitamins and maintaining a balanced diet to support your baby's growth and development."
+                
+            }, 
+            {
+                "id": "0036",
+                "Week": 36, 
+                "Weight Gain": "During the third trimester, an average weight gain of about 1 pound (0.45 kilograms) per week is recommended.", 
+                "Ideal Weight": "Weight gain during the third trimester can vary, but a total weight gain of 25-35 pounds (11.3-15.9 kilograms) by the end of pregnancy is considered typical for women with a normal pre-pregnancy BMI.",
+                "Tips" : "Continue taking prenatal vitamins and maintaining a balanced diet to support your baby's growth and development."
+                
+            }, 
+            {
+                "id": "0037",
+                "Week": 37, 
+                "Weight Gain": "During the third trimester, an average weight gain of about 1 pound (0.45 kilograms) per week is recommended.", 
+                "Ideal Weight": "Weight gain during the third trimester can vary, but a total weight gain of 25-35 pounds (11.3-15.9 kilograms) by the end of pregnancy is considered typical for women with a normal pre-pregnancy BMI.",
+                "Tips" : "Continue taking prenatal vitamins and maintaining a balanced diet to support your baby's growth and development."
+                
+            }, 
+            {
+                "id": "0038",
+                "Week": 38, 
+                "Weight Gain": "During the third trimester, an average weight gain of about 1 pound (0.45 kilograms) per week is recommended.", 
+                "Ideal Weight": "Weight gain during the third trimester can vary, but a total weight gain of 25-35 pounds (11.3-15.9 kilograms) by the end of pregnancy is considered typical for women with a normal pre-pregnancy BMI.",
+                "Tips" : "Continue taking prenatal vitamins and maintaining a balanced diet to support your baby's growth and development."
+                
+            }, 
+            {
+                "id": "0039",
+                "Week": 39, 
+                "Weight Gain": "During the third trimester, an average weight gain of about 1 pound (0.45 kilograms) per week is recommended.", 
+                "Ideal Weight": "Weight gain during the third trimester can vary, but a total weight gain of 25-35 pounds (11.3-15.9 kilograms) by the end of pregnancy is considered typical for women with a normal pre-pregnancy BMI.",
+                "Tips" : "Continue taking prenatal vitamins and maintaining a balanced diet to support your baby's growth and development."
+                
+            }, 
+            {
+                "id": "0040",
+                "Week": 40, 
+                "Weight Gain": "During the third trimester, an average weight gain of about 1 pound (0.45 kilograms) per week is recommended.", 
+                "Ideal Weight": "Weight gain during the third trimester can vary, but a total weight gain of 25-35 pounds (11.3-15.9 kilograms) by the end of pregnancy is considered typical for women with a normal pre-pregnancy BMI.",
+                "Tips" : "Continue taking prenatal vitamins and maintaining a balanced diet to support your baby's growth and development."
                 
             }, 
         ]
