@@ -4,59 +4,503 @@ export default {
         "bmi_data": [
             {
                 "id": "00001", 
-                "BMI": "15", 
+                "BMI": 15.0, 
                 "Category" : "Very severely underweight", 
-                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
 
             }, 
             {
                 "id": "00002", 
-                "BMI": "16", 
+                "BMI": 15.1, 
+                "Category" : "Very severely underweight", 
+
+            }, 
+            {
+                "id": "00003", 
+                "BMI": 15.2, 
+                "Category" : "Very severely underweight", 
+
+            }, 
+            {
+                "id": "00004", 
+                "BMI": 15.3, 
+                "Category" : "Very severely underweight", 
+
+            }, 
+            {
+                "id": "00005", 
+                "BMI": 15.4, 
+                "Category" : "Very severely underweight", 
+
+            }, 
+            {
+                "id": "00006", 
+                "BMI": 15.6, 
+                "Category" : "Very severely underweight", 
+
+            }, 
+            {
+                "id": "00007", 
+                "BMI": 15.7, 
+                "Category" : "Very severely underweight", 
+
+            }, 
+            {
+                "id": "00008", 
+                "BMI": 15.8, 
+                "Category" : "Very severely underweight", 
+
+            }, 
+            {
+                "id": "00009", 
+                "BMI": 15.9, 
+                "Category" : "Very severely underweight", 
+
+            }, 
+            {
+                "id": "00010", 
+                "BMI": 16.0, 
                 "Category" : "Severly underweight", 
                 "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
 
             }, 
             {
-                "id": "00003", 
-                "BMI": "17", 
+                "id": "00011", 
+                "BMI": 16.1, 
+                "Category" : "Severly underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            }, 
+            {
+                "id": "00012", 
+                "BMI": 16.2, 
+                "Category" : "Severly underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            }, 
+            {
+                "id": "00013", 
+                "BMI": 16.3, 
+                "Category" : "Severly underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            }, 
+            {
+                "id": "00014", 
+                "BMI": 16.4, 
+                "Category" : "Severly underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            }, 
+            {
+                "id": "00015", 
+                "BMI": 16.5, 
+                "Category" : "Severly underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            }, 
+            {
+                "id": "00016", 
+                "BMI": 16.6, 
+                "Category" : "Severly underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            }, 
+            {
+                "id": "00017", 
+                "BMI": 16.7, 
+                "Category" : "Severly underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            }, 
+            {
+                "id": "00018", 
+                "BMI": 16.8, 
+                "Category" : "Severly underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            }, 
+            {
+                "id": "00019", 
+                "BMI": 16.9, 
+                "Category" : "Severly underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            }, 
+            {
+                "id": "00020", 
+                "BMI": 17.0, 
                 "Category" : "Underweight", 
                 "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
 
             },  
             {
-                "id": "00004", 
-                "BMI": "18", 
-                "Category" : "Underweight range", 
+                "id": "00021", 
+                "BMI": 17.1, 
+                "Category" : "Underweight", 
                 "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
 
             },  
             {
-                "id": "00005", 
-                "BMI": "19", 
+                "id": "00022", 
+                "BMI": 17.2, 
+                "Category" : "Underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            },  
+            {
+                "id": "00023", 
+                "BMI": 17.3, 
+                "Category" : "Underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            },  
+            {
+                "id": "00024", 
+                "BMI": 17.4, 
+                "Category" : "Underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            },  
+            {
+                "id": "00025", 
+                "BMI": 17.5, 
+                "Category" : "Underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            },  
+            {
+                "id": "00026", 
+                "BMI": 17.6, 
+                "Category" : "Underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            },  
+            {
+                "id": "00027", 
+                "BMI": 17.7, 
+                "Category" : "Underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            },  
+            {
+                "id": "00028", 
+                "BMI": 17.8, 
+                "Category" : "Underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            },  
+            {
+                "id": "00029", 
+                "BMI": 17.9, 
+                "Category" : "Underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            },  
+            {
+                "id": "00030", 
+                "BMI": 18.0, 
+                "Category" : "Underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            },  
+            {
+                "id": "00031", 
+                "BMI": 18.1, 
+                "Category" : "Underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            },   {
+                "id": "00032", 
+                "BMI": 18.2, 
+                "Category" : "Underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            },   {
+                "id": "00033", 
+                "BMI": 18.3, 
+                "Category" : "Underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            },   {
+                "id": "00034", 
+                "BMI": 18.4, 
+                "Category" : "Underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            },   {
+                "id": "00035", 
+                "BMI": 18.5, 
+                "Category" : "Underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            },   {
+                "id": "00036", 
+                "BMI": 18.6, 
+                "Category" : "Underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            },   {
+                "id": "00037", 
+                "BMI": 18.7, 
+                "Category" : "Underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            },   {
+                "id": "00038", 
+                "BMI": 18.8, 
+                "Category" : "Underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            },   {
+                "id": "00039", 
+                "BMI": 18.9, 
+                "Category" : "Underweight", 
+                "Description": "Don't worry too much though as most people who have a low BMI in pregnancy are fine and have healthy pregnancies and babies. But you may be referred for extra scans to check on your baby's growth and development. Your midwife or specialist will talk to you about what your target weight gain in pregnancy should be."
+
+            },  
+            {
+                "id": "00040", 
+                "BMI": 19.0, 
                 "Category" : "Normal BMI"
 
             },  
             {
-                "id": "00006", 
-                "BMI": "20", 
+                "id": "00041", 
+                "BMI": 19.1, 
                 "Category" : "Normal BMI"
 
             },  
             {
-                "id": "00007", 
-                "BMI": "21", 
+                "id": "00042", 
+                "BMI": 19.2, 
                 "Category" : "Normal BMI"
 
             },  
             {
-                "id": "00008", 
-                "BMI": "22", 
+                "id": "00043", 
+                "BMI": 19.3, 
                 "Category" : "Normal BMI"
 
             },  
             {
-                "id": "00009", 
-                "BMI": "23", 
+                "id": "00044", 
+                "BMI": 19.4, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00045", 
+                "BMI": 19.5, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00046", 
+                "BMI": 19.6, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00047", 
+                "BMI": 19.7, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00048", 
+                "BMI": 19.8, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00049", 
+                "BMI": 19.9, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00050", 
+                "BMI": 20.0, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00051", 
+                "BMI": 20.1, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00052", 
+                "BMI": 20.2, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00053", 
+                "BMI": 20.3, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00054", 
+                "BMI": 20.4, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00055", 
+                "BMI": 20.5, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00056", 
+                "BMI": 20.6, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00057", 
+                "BMI": 20.7, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00058", 
+                "BMI": 20.0, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00059", 
+                "BMI": 20.9, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00060", 
+                "BMI": 21.0, 
+                "Category" : "Normal BMI"
+
+            }, 
+            {
+                "id": "00061", 
+                "BMI": 21.1, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00062", 
+                "BMI": 21.2, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00063", 
+                "BMI": 21.3, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00064", 
+                "BMI": 21.4, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00065", 
+                "BMI": 21.5, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00066", 
+                "BMI": 21.6, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00067", 
+                "BMI": 21.7, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00068", 
+                "BMI": 21.8, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00069", 
+                "BMI": 21.9, 
+                "Category" : "Normal BMI"
+
+            },   
+            {
+                "id": "00070", 
+                "BMI": 22.0, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00071", 
+                "BMI": 22.1, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00072", 
+                "BMI": 22.2, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00073", 
+                "BMI": 22.3, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00074", 
+                "BMI": 22.4, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00075", 
+                "BMI": 22.5, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00076", 
+                "BMI": 22.6, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00077", 
+                "BMI": 22.7, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00078", 
+                "BMI": 22.8, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00079", 
+                "BMI": 22.9, 
+                "Category" : "Normal BMI"
+
+            },  
+            {
+                "id": "00080", 
+                "BMI": 23.0, 
                 "Category" : "Normal BMI"
 
             },  
